@@ -34,7 +34,7 @@ function TopRated() {
                     <button className="w-12 h-12 flex-colo transitions hover:bg-subMain rounded-full bg-white bg-opacity-30 text-white">
                       <FaHeart/>
                     </button>
-                    <Link className="font-semibold text-xl trancuted line-clamp-2" to={`/movie/${movie.name}`}>
+                    <Link className="font-semibold text-xl trancuted line-clamp-2" to={`/movies/${movie.name}`}>
                       {movie.name}
                     </Link>
                     <div className="flex gap-2 text-star">                    

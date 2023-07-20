@@ -113,3 +113,56 @@ export const Movies = [
     },
 
 ];
+
+export const UsersData = [
+    {
+        name: 'sanchez lando',
+        image: 'c1.png',
+        rating: 4,
+        message: `cott Ward is a seasoned veteran, a former mercenary with a checkered past. He's a weathered and rugged individual in eanor.`
+    },
+    {
+        name: 'castanares joycie',
+        image: 'c2.png',
+        rating: 1,
+        message: `cott Ward is a seasoned veteran, a former mercenary with a checkered past. He's a weathered and rugged individual in or.`
+    },
+    {
+        name: 'laolao jamewel',
+        image: 'c3.png',
+        rating: 3,
+        message: `cott Ward is a seasoned veteran, a former mercenary with a checkered past. He's a weathered and rugged individual in.`
+    },
+    {
+        name: 'dhd',
+        image: 'c4.png',
+        rating: 3,
+        message: `cott Ward is a seasoned veteran, a former mercenary with a checkered past. He's a weathered and rugged individual in emeanor.`
+    },
+    {
+        name: 'castanares joycie',
+        image: 'c5.png',
+        rating: 4,
+        message: `cott Ward is a seasoned veteran, er mercenary with a checkered past. He's a weathered and rugged individual in r.`
+    },
+    {
+        name: 'sanchez lando',
+        image: 'c1.png',
+        rating: 3,
+        message: `cott Ward is a g physique and a no-nonsense demeanor.`
+    },
+    {
+        name: 'castanares joycie',
+        image: 'c2.png',
+        rating: 2,
+        message: `cott Ward is a seasoned veteran, a former  past. He's a weathered and rugged individual in nonsense demeanor.`
+    },
+    {
+        name: 'laolao jamewel',
+        image: 'c3.png',
+        rating: 4,
+        message: `cott Ward is a a weathered and rugged indual  late essing a strong physique and a no-nonsense demeanor.`
+    },
+    
+
+]

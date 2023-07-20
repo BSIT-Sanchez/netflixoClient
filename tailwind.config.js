@@ -23,7 +23,7 @@ module.exports = {
         dry: '#0b0f29',
         star: '#ffb000',
         text: '#C0C0C0',
-        border: '#$b5563',
+        border: '#4b5563',
         dryGray: '#E0D5D5',
       }
     },

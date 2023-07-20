@@ -28,7 +28,7 @@ function Banner() {
                                     <FlexMovieItems movie={movie}/>
                                 </div>
                                 <div className="flex gap-5 items-center">
-                                    <Link to={`/movie/${movie.name}`} className="bg-subMain hover:text-main transitions text-white px-8 py-3 rounded font-medium sm:text-sm text-xs">
+                                    <Link to={`/movies/${movie.name}`} className="bg-subMain hover:text-main transitions text-white px-8 py-3 rounded font-medium sm:text-sm text-xs">
                                         Watch
                                     </Link>
                                     <button className='bg-white hover:text-subMain transitions text-white px-4 py-3 rounded text-sm bg-opacity-30'>
